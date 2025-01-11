@@ -1,6 +1,6 @@
  
  <p align="center">
-  <img src="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/470779/regular_t-20de-20target.png" width="500px" height="250px"/></p>
+  <img src="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/470779/regular_t-20de-20target.png" width="250px" height="250px"/></p>
   
 
 ## 💻 Sobre
